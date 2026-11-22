@@ -5,7 +5,7 @@ Program & business architect with 15 years in transformation and IT programs (sh
 ### What I do
 
 - **[Forja](https://github.com/khsergey-afk/forja-concept)** — corporate agentic workspace: teams hand over whole tasks, an AI agent plans the steps, pulls data from corporate systems (1C, CRM, databases) and returns a ready file — report, contract, presentation.
-- **PM & methodology** — shared-service operating models, SLA/OLA, program governance, PMBoK/Agile, BPMN; anonymized case material from Russian gas-supply practice.
+- **PM & methodology** — shared-service operating models, SLA/OLA, program governance, PMBoK/Agile, BPMN; deep expertise in gas-industry methodology and practice.
 - **Prompt engineering & agent environments** — structured agent environments built on Claude Code: role libraries, skill systems, subagents, data boundaries.
 
 ### Portfolio
