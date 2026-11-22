@@ -16,8 +16,9 @@ Program & business architect with 15 years in transformation and IT programs (sh
 |---|---|
 | [forja-concept](https://github.com/khsergey-afk/forja-concept) | product concept of Forja: the last mile of agentic work — task in, accepted document out |
 | [omniscope-concept](https://github.com/khsergey-afk/omniscope-concept) | multi-discipline analysis orchestrator: 6 specialist agents, verified Excel / Word / PPTX / Visio / MS Project output |
+| [pm-portfolio](https://github.com/khsergey-afk/pm-portfolio) | methodology case portfolio: shared services center end-to-end, business architecture, requirements engineering — with author's methods and checklists |
 
-*In development:* pm-portfolio (methodology case folders) and PMPTrainer (PMP exam prep bot) — showcases coming soon.
+*In development:* PMPTrainer (PMP exam prep bot) — showcase coming soon.
 
 ### Contacts
 
