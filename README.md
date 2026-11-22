@@ -20,6 +20,7 @@ Program & business architect with 15 years in transformation and IT programs (sh
 ### Contacts
 
 - ✉️ kh.sergey@googlemail.com
+- 💬 Telegram: [@KhSergey](https://t.me/KhSergey)
 - 🌐 [ai-po-delu.ru](https://ai-po-delu.ru)
 
 ---
