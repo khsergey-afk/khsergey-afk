@@ -1,3 +1,5 @@
+<img src="banner.png" width="1200" alt="VibeArchitect - Agentic Workspaces for Real Teams">
+
 ## Hi, I'm Sergey 👋
 
 Program & business architect with 15 years in transformation and IT programs (shared services, gas-supply logistics, PMO). I build agentic workplaces and help teams delegate whole tasks to AI agents.
