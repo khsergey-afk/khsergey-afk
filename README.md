@@ -7,8 +7,8 @@ Program & business architect with 15 years in transformation and IT programs (sh
 ### What I do
 
 - **[Forja](https://github.com/khsergey-afk/forja-concept)** — corporate agentic workspace: teams hand over whole tasks, an AI agent plans the steps, pulls data from corporate systems (1C, CRM, databases) and returns a ready file — report, contract, presentation.
-- **PM & methodology** — shared-service operating models, SLA/OLA, program governance, PMBoK/Agile, BPMN; deep expertise in gas-industry methodology and practice.
-- **Prompt engineering & agent environments** — structured agent environments built on Claude Code: role libraries, skill systems, subagents, data boundaries.
+- **PM & methodology** — end-to-end service models for shared services (catalog of services, SLA/OLA, process-role models, KPI-SLA measurement systems), program governance, change management in four phases; PMBoK/Agile, BPMN, ITIL 4-aligned design; deep expertise in gas-industry methodology and practice.
+- **Prompt engineering & agent environments** — structured agent environments built on Claude Code: role libraries, skill systems, subagents, data boundaries. Certified: «Vibe-Coding with Claude Code» (Zerocoder University, 30 academic hours, 2026).
 
 ### Portfolio
 
@@ -22,11 +22,11 @@ Program & business architect with 15 years in transformation and IT programs (sh
 ### Contacts
 
 - ✉️ kh.sergey@googlemail.com
-- 💬 Telegram: [@KhSergey](https://t.me/KhSergey)
+- 💬 Telegram channel: [@SuperAI_Consultant](https://t.me/SuperAI_Consultant) · personal: [@KhSergey](https://t.me/KhSergey)
 - 🌐 [ai-po-delu.ru](https://ai-po-delu.ru)
 
 ---
 
 ## По-русски
 
-Руководитель проектов и бизнес-архитектор, 15 лет в трансформационных и ИТ-программах (общие центры обслуживания, логистика поставок газа, проектный офис). Собираю агентные рабочие места и учу команды передавать задачи целиком ИИ-агенту: агент сам планирует шаги, забирает данные из корпоративных систем и возвращает готовый файл. Подробнее — в англоязычной части и в репозиториях портфолио.
+Руководитель проектов и бизнес-архитектор, 15 лет в трансформационных и ИТ-программах (общие центры обслуживания, логистика поставок газа, проектный офис). Проектирую сквозные сервисные модели ОЦО — каталог услуг, SLA/OLA, процессно-ролевые модели, управление изменениями в четырёх фазах; собираю агентные рабочие места и учу команды передавать задачи целиком ИИ-агенту. Сертификат «Vibe-Coding with Claude Code» (Zerocoder, 2026). Подробнее — в англоязычной части и в репозиториях портфолио.
